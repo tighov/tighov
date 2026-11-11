@@ -1,38 +1,40 @@
-Hi there 👋 I'm Tigran
-DevOps & Cloud Infrastructure Engineer ☁️
+Hi there 👋
 
-Turning cloud complexity into developer simplicity.
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250" alt="Coding animation" />
 
-I'm a DevOps & Cloud Infrastructure Engineer with 12+ years of experience designing, building, and operating cloud-native infrastructure.
+I'm Tigran Hovhannisyan 🤓
 
-🌍 Based in Armenia 🇦🇲
+I'm a Senior DevOps & SRE Engineer with a strong background in Cloud Infrastructure, Platform Engineering, and Software Engineering.
 
-☁️ Cloud: Google Cloud Platform (GCP), AWS, Oracle Cloud (OCI)
+☁️ Experienced in building and operating cloud-native infrastructure across AWS, Google Cloud Platform (GCP), and Oracle Cloud (OCI).
 
-🚀 Focus: Kubernetes, Platform Engineering, GitOps, Infrastructure as Code, CI/CD
+🚀 Passionate about Kubernetes, Infrastructure as Code, CI/CD automation, Site Reliability Engineering, and developer platforms.
 
-🛠️ Automation: Terraform, Ansible, Python, Bash
+🧠 With a software engineering background, I enjoy solving complex infrastructure challenges, automating workflows, and building reliable, scalable systems.
 
-💡 Passionate about building scalable platforms, automating everything possible, and improving developer experience.
+🌍 I'm based in Armenia 🇦🇲
 
-🤝 Always interested in exchanging ideas and collaborating on meaningful engineering projects.
+🤝 Open to interesting collaborations, Open Source projects, and engineering challenges.
 
-🌐 Website: tighov.link
+🌐 Check out my personal website: tighov.link
 
 🧰 Technologies & Tools
+
 ☁️ Cloud Platforms
 
 <p>
 <img src="https://skillicons.dev/icons?i=aws,gcp&theme=dark" />
 </p>
 
-Oracle Cloud (OCI) · Google Kubernetes Engine (GKE)
+Oracle Cloud Infrastructure (OCI) · Google Kubernetes Engine (GKE)
 
 🚀 Containers & Platform Engineering
 
 <p>
-<img src="https://skillicons.dev/icons?i=kubernetes,docker,helm,istio&theme=dark" />
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,helm&theme=dark" />
 </p>
+
+Istio · Microservices · Cloud-Native Architecture
 
 ⚙️ Infrastructure & Automation
 
@@ -40,13 +42,15 @@ Oracle Cloud (OCI) · Google Kubernetes Engine (GKE)
 <img src="https://skillicons.dev/icons?i=terraform,ansible,jenkins&theme=dark" />
 </p>
 
+Infrastructure as Code · CI/CD · GitOps
+
 📊 Observability & SRE
 
 <p>
 <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" />
 </p>
 
-Datadog · Site Reliability Engineering
+Datadog · Site Reliability Engineering · Monitoring & Observability
 
 💻 Programming & Systems
 
@@ -54,18 +58,33 @@ Datadog · Site Reliability Engineering
 <img src="https://skillicons.dev/icons?i=python,bash,cpp,c,linux,git&theme=dark" />
 </p>
 
-Additional: Perl · TCL · GNU Make · CMake
+Perl · TCL · GNU Make · CMake · Multithreading
 
 🏗️ Software Engineering
 
-C++ · Embedded Software · Microservices · Apache Kafka · Redis · HBase · REST APIs · Multithreading · Design Patterns · UML
+C++ · Embedded Software · Software Architecture · Design Patterns · Apache Kafka · Redis · HBase · REST APIs
 
-🔄 Development Practices
+📊 GitHub Stats
 
-Infrastructure as Code · CI/CD · GitOps · Platform Engineering · Cloud-Native Architecture · Scrum
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=tighov&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tighov&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
-🌐 Find me around the web
+🌐 Connect with me
 
-![Website](https://img.shields.io/badge/Website-tighov.link-111111?style=for-the-badge&logo=googlechrome&logoColor=white) ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-tighov-181717?style=for-the-badge&logo=github&logoColor=white)
+<p>
+<a href="https://www.tighov.link/">
+<img src="https://img.shields.io/badge/Website-tighov.link-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/thetigran/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/tighov">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 
 Building reliable infrastructure. Automating complexity. Enabling developers.
