@@ -1,76 +1,44 @@
-Hi there 👋 I'm Tigran Hovhannisyan
-
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250" alt="Coding animation" />
-
+Hi there 👋 I'm Tigran
 DevOps & Cloud Infrastructure Engineer ☁️
 
 Turning cloud complexity into developer simplicity.
 
-I'm a DevOps & Cloud Infrastructure Engineer with 12+ years of experience building scalable, automated platforms across GCP, AWS, and OCI.
-
-🛠️ I specialize in Kubernetes, Infrastructure as Code, CI/CD automation, GitOps, and Platform Engineering.
-
-☁️ I work across Google Cloud, AWS, and Oracle Cloud Infrastructure.
-
-🚀 I'm passionate about building reliable infrastructure, improving developer experience, and simplifying complex cloud environments.
+I'm a DevOps & Cloud Infrastructure Engineer with 12+ years of experience designing, building, and operating cloud-native infrastructure.
 
 🌍 Based in Armenia 🇦🇲
 
-🤝 Open to interesting collaborations, consulting opportunities, and challenging infrastructure projects.
+☁️ Cloud: Google Cloud Platform (GCP), AWS, Oracle Cloud (OCI)
 
-📝 I share my thoughts and technical articles on my personal website.
+🚀 Focus: Kubernetes, Platform Engineering, GitOps, Infrastructure as Code, CI/CD
 
-🛠️ Skills & Technologies
+🛠️ Automation: Terraform, Ansible, Python, Bash
+
+💡 Passionate about building scalable platforms, automating everything possible, and improving developer experience.
+
+🤝 Always interested in exchanging ideas and collaborating on meaningful engineering projects.
+
+🌐 Website: tighov.link
+
+🧰 Technologies & Tools
+
 Cloud Platforms
 
-<p>
-<img src="https://skillicons.dev/icons?i=gcp,aws" />
-</p>
+!GCP !AWS !OCI
 
-DevOps & Infrastructure
+Containers & Orchestration
 
-<p>
-<img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,ansible,helm,jenkins,github" />
-</p>
+!Kubernetes !Docker !Helm
 
-Programming & Automation
+Infrastructure & Automation
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,bash,linux,git" />
-</p>
+!Terraform !Ansible !ArgoCD
 
-Platform Engineering
-Kubernetes & Cloud Native Infrastructure
-Infrastructure as Code (Terraform)
-CI/CD Pipelines
-GitOps & ArgoCD
-Cloud Architecture & Automation
-Developer Platforms & Infrastructure Reliability
-✍️ Latest Articles
+Programming & CI/CD
 
-Check out my technical writing and thoughts on DevOps, Kubernetes, Cloud Infrastructure, and Platform Engineering.
+!Python !Bash !Jenkins !Git
 
-🌐 Read my blog →
+🌐 Find me around the web
 
-📊 GitHub Stats
+![Website](https://img.shields.io/badge/Website-tighov.link-111111?style=for-the-badge&logo=googlechrome&logoColor=white) ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-tighov-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tighov&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tighov&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-🌐 Connect with me
-
-<p>
-<a href="https://www.tighov.link/">
-<img src="https://img.shields.io/badge/Website-tighov.link-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/thetigran/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/tighov">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</p>
-
-⭐ Thanks for stopping by! Feel free to explore my repositories and connect with me.
+Building reliable infrastructure. Automating complexity. Enabling developers.
