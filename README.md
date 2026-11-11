@@ -20,22 +20,49 @@ I'm a DevOps & Cloud Infrastructure Engineer with 12+ years of experience design
 🌐 Website: tighov.link
 
 🧰 Technologies & Tools
+☁️ Cloud Platforms
 
-Cloud Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp&theme=dark" />
+</p>
 
-!GCP !AWS !OCI
+Oracle Cloud (OCI) · Google Kubernetes Engine (GKE)
 
-Containers & Orchestration
+🚀 Containers & Platform Engineering
 
-!Kubernetes !Docker !Helm
+<p>
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,helm,istio&theme=dark" />
+</p>
 
-Infrastructure & Automation
+⚙️ Infrastructure & Automation
 
-!Terraform !Ansible !ArgoCD
+<p>
+<img src="https://skillicons.dev/icons?i=terraform,ansible,jenkins&theme=dark" />
+</p>
 
-Programming & CI/CD
+📊 Observability & SRE
 
-!Python !Bash !Jenkins !Git
+<p>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" />
+</p>
+
+Datadog · Site Reliability Engineering
+
+💻 Programming & Systems
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,bash,cpp,c,linux,git&theme=dark" />
+</p>
+
+Additional: Perl · TCL · GNU Make · CMake
+
+🏗️ Software Engineering
+
+C++ · Embedded Software · Microservices · Apache Kafka · Redis · HBase · REST APIs · Multithreading · Design Patterns · UML
+
+🔄 Development Practices
+
+Infrastructure as Code · CI/CD · GitOps · Platform Engineering · Cloud-Native Architecture · Scrum
 
 🌐 Find me around the web
 
